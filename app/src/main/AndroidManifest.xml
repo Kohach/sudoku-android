@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.alexis.imie_android_alexis">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Activities.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Activities.Activities_Menu" />
+        <activity android:name=".Activities.Game_battleship" />
+        <activity android:name=".Activities.Game_checkers" />
+        <activity android:name=".Activities.Game_sudoku" />
+        <activity android:name=".Activities.Game_connect4" />
+        <activity android:name=".Activities.Game_horses" />
+        <activity android:name=".Activities.Game_chess"></activity>
+    </application>
+
+</manifest>

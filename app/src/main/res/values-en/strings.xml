@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="btn_save">Save</string>
+        <string name="btn_delete">Delete</string>
+        <string name="checkers">Checkers</string>
+        <string name="sudoku">Sudoku</string>
+        <string name="connect4">Connect 4</string>
+        <string name="horses">Horses</string>
+        <string name="battleship">BattleShip</string>
+        <string name="chess">Chess</string>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">IMIE_Android_Alexis</string>
+    <string name="btn_go">GO</string>
+    <string name="login">Login</string>
+    <string name="btn_save">Enregistrer</string>
+    <string name="btn_delete">Supprimer</string>
+    <string name="password">Password</string>
+    <string name="checkers">Dames</string>
+    <string name="sudoku">Sudoku</string>
+    <string name="connect4">Puissance 4</string>
+    <string name="horses">Jeu de Dada</string>
+    <string name="battleship">Bataille navale</string>
+    <string name="chess">Echecs</string>
+</resources>
